@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="JRebel" name="JRebel">
+      <configuration>
+        <option name="ideModuleStorage">
+          <map>
+            <entry key="com.zeroturnaround.jrebel.FormatVersion" value="7.0.0" />
+            <entry key="com.zeroturnaround.jrebel.remoting.DeleteUnindexedFiles" value="false" />
+            <entry key="jrebelEnabled" value="true" />
+            <entry key="lastExternalPluginCheckTime" value="1699322965978" />
+            <entry key="rebelXmlGenerationInvariantToken" value="PGFwcGxpY2F0aW9uIGdlbmVyYXRlZC1ieT0iaW50ZWxsaWoiPjxpZD5XRUFWRVI8L2lkPjxjbGFzc3BhdGg+PGRpciBuYW1lPSJEOi9XRUFWRVIvb3V0L3Byb2R1Y3Rpb24vV0VBVkVSIj48L2Rpcj48L2NsYXNzcGF0aD48L2FwcGxpY2F0aW9uPg==" />
+            <entry key="rebelXmlGenerationType" value="ide" />
+          </map>
+        </option>
+        <option name="version" value="27" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/..">
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="resin_lib" level="project" />
+    <orderEntry type="library" name="resin_lib" level="project" />
+    <orderEntry type="library" name="web_lib" level="project" />
+    <orderEntry type="library" name="res_lib" level="project" />
+    <orderEntry type="library" name="webinf_lib" level="project" />
+    <orderEntry type="library" name="webinf" level="project" />
+    <orderEntry type="library" name="resin_lib" level="project" />
+    <orderEntry type="library" name="classbean_lib" level="project" />
+    <orderEntry type="library" name="activation" level="project" />
+    <orderEntry type="library" name="web_lib" level="project" />
+  </component>
+</module>
